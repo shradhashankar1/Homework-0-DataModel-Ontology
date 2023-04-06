@@ -3,3 +3,5 @@
 * ArangoDB : arangodb.md
 * OrientDB : orientdb.md
 * Amazon Neptune : amazonneptune.md
+* InfluxDB : influxdb.md
+* Graphite : graphite.md
