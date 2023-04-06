@@ -1,1 +1,1 @@
-
+OrientDB's website name is http://orientbd.org. OrientDB is the first multi model open source system. An open source system is a system that the code is free to download. The data model for this database is a graph datamodel which describes the structure of the database. Nodes and edges are the core components. Both embedded models and client server models are supported by this database. Java and python access it through drivers fro each language. 
