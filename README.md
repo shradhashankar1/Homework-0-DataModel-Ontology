@@ -1,3 +1,3 @@
-# Homework-0-DataModel-Ontology
+# Data Models
 * ScyllaDB : scylladb.md
 * Dgraph : dgraph.md
