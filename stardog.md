@@ -1,1 +1,2 @@
+The database name is called Stardog and the website for this database is https://www.stardog.com. This database is not an open-spurce but is free and available for commercial use. The data model for this database is a graph datamodel which uses a graph structure and primarily consists of nodes and edges. The hosting model for this database is both client/server as well as embedded. Java and Python both access Stardog through API's that are provided by the database. 
 
