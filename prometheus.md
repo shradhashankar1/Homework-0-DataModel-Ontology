@@ -1,1 +1,1 @@
-
+This database is calles Prometheus and has a website called https://prometheus.io. This database is open sources meaning the code to this database is publically accessible. The data model for this database is a time series model which is optimized for time stamped data such as events or object tracking over a period of time. The hosting model for this database is client/server and Python and Java access it through API's provided by Prometheus. 
