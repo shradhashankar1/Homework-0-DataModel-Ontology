@@ -5,3 +5,5 @@
 * Amazon Neptune : amazonneptune.md
 * InfluxDB : influxdb.md
 * Graphite : graphite.md
+* Stardog : stardog.md
+* Prometheus : prometheus.md
