@@ -1,0 +1,2 @@
+The name of this database is ArangoDB and the website it https://cloud.arangodb.com. This database is a free open source database system. This is a graph data model which means is a databate with a structure of a graph. The hosting model of this database is both embedded as it runs a library within a client app as well as a client server hosting model. Java and python access though the drivers for each language.
+
