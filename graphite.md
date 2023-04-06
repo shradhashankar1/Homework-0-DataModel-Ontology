@@ -1,1 +1,2 @@
+This database is called Graphite and the website for this database is https://graphiteapp.org. This database is an open source databse which is used to graph the performace of computer systems. An open source database means the code is accessible to the public. The data model is a time series data model which means is it used to optimize time stamped data. it can track events or quantities over a period of time. The hosting model is a client server model and java and pythin can access it through client libraries. 
 
