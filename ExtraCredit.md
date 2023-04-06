@@ -1,1 +1,1 @@
-
+OLAP is a database to analyze multi- dimentional data like sales analyzed by location and many other factors as well. This data model is different from the others as it is a lot more complicated. Instead of having 1 or 2 factirs being analyzed at once it is many making is a lot more difficult to navigate. 
